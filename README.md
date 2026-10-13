@@ -35,6 +35,9 @@ structured process for submitting, reviewing, and tracking requests.
 ## Workflow Diagram
 
 <img src="image/Vacation_Request_Approval_Workflow.png" alt="License"></a>
+<br>
+<img src="image/Power_Automate_Project.png" alt="License"></a>
+
 
 ## Project Outcome
 
